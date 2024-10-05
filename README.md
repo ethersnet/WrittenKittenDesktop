@@ -9,5 +9,5 @@ When started, a window will pop up that tracks words written, showing a new cat 
 cd WrittenKittenDesktop
 python -m venv
 venv/bin/pip install -r requirements.txt
-venv/bin/python3 writtenkitten.py
+sudo venv/bin/python3 writtenkitten.py
 ```
